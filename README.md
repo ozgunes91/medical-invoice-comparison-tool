@@ -115,30 +115,6 @@ Gerçek hasta verisi kullanmamak için; aksanlı karakterler, farklı tarih biç
 
 ---
 
-# 📁 Folder Structure
-
-```
-med_compare_tool/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── modules/
-│   ├── pdf_reader.py
-│   ├── excel_reader.py
-│   ├── matcher.py
-│   ├── normalizer.py
-│   └── exporter.py
-│
-├── sample_data/
-│   ├── invoice_pdf_*.pdf
-│   ├── invoice_excel_*.xlsx
-│   └── worklog.xlsx
-```
-
----
-
 # 🧪 Demo  
 You can test the workflow using the provided sample PDF/Excel invoices and doctor logs.
 
