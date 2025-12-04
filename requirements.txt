@@ -1,0 +1,10 @@
+streamlit
+pandas
+pdfplumber
+openpyxl
+xlrd
+unicodedata2
+python-dateutil
+rapidfuzz
+tabula-py
+numpy
